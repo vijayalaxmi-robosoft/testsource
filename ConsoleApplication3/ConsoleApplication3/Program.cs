@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Declare a delegate for an event.  
+
 delegate void MyEventHandler();
 
 class MyEvent
