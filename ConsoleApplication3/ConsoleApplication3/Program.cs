@@ -3,7 +3,7 @@
 // Declare a delegate for an event.  
 delegate void MyEventHandler();
 
-// Declare an event class. 
+
 class MyEvent
 {
     public event MyEventHandler SomeEvent;
