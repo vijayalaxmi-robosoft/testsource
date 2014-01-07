@@ -14,7 +14,7 @@ class MyEvent
             SomeEvent();
     }
 }
-
+//class
 public class EventDemo
 {
     // An event handler. 
